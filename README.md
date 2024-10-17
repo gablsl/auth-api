@@ -1,6 +1,6 @@
 # 🧿 Auth API
 
-> Project developed during Fernanda Kipper'sclass. This repository contains a simple Java Spring project that implements authentication and authorization using Spring Security
+> Project developed during Fernanda Kipper's class. This repository contains a simple Java Spring project that implements authentication and authorization using Spring Security
 
 ## 🛠️ Technologies
 
